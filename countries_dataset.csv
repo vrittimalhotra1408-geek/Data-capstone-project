@@ -1,0 +1,40 @@
+country,countrylong,currency,capital city,region,continent,latitude,longitude,agriculture land,forestarea,land ares,rural land,urban land,population,democratic score,political leader
+India,Republic of India,Indian Rupee,New Delhi,Southern Asia,Asia,20.5937,78.9629,2973190,720160,2973190,2090800,88300,1438069596,7.18,Narendra Modi
+United States,United States of America,US Dollar,"Washington, D.C.",Northern America,North America,37.0902,-95.7129,4076730,3100950,9147420,6740000,268000,340110988,7.85,Donald Trump
+Canada,Canada,Canadian Dollar,Ottawa,Northern America,North America,56.1304,-106.3468,517900,3470000,9093510,8080000,160000,40105275,8.69,Mark Carney
+United Kingdom,United Kingdom of Great Britain and Northern Ireland,Pound Sterling,London,Northern Europe,Europe,55.3781,-3.436,172000,317000,241930,160000,19000,69226000,8.31,Keir Starmer
+France,French Republic,Euro,Paris,Western Europe,Europe,46.2276,2.2137,287000,172000,547557,310000,28000,66650000,8.07,Emmanuel Macron
+Germany,Federal Republic of Germany,Euro,Berlin,Western Europe,Europe,51.1657,10.4515,165000,114000,348560,210000,26000,83500000,8.68,Friedrich Merz
+Italy,Italian Republic,Euro,Rome,Southern Europe,Europe,41.8719,12.5674,124000,95000,294140,145000,12000,58900000,7.69,Giorgia Meloni
+Spain,Kingdom of Spain,Euro,Madrid,Southern Europe,Europe,40.4637,-3.7492,238000,185000,499556,250000,15000,49000000,8.07,Pedro Sánchez
+Brazil,Federative Republic of Brazil,Brazilian Real,Brasília,South America,South America,-14.235,-51.9253,2820000,4966200,8358140,6890000,300000,212583750,6.49,Luiz Inácio Lula da Silva
+Mexico,United Mexican States,Mexican Peso,Mexico City,Central America,North America,23.6345,-102.5528,963000,656000,1943950,1440000,95000,131946900,5.73,Claudia Sheinbaum
+Argentina,Argentine Republic,Argentine Peso,Buenos Aires,South America,South America,-38.4161,-63.6167,1080000,945000,2736690,2050000,100000,45851000,6.62,Javier Milei
+Australia,Commonwealth of Australia,Australian Dollar,Canberra,Australia and New Zealand,Oceania,-25.2744,133.7751,3630000,1340000,7682300,6400000,220000,27230000,8.66,Anthony Albanese
+Japan,Japan,Japanese Yen,Tokyo,Eastern Asia,Asia,36.2048,138.2529,43700,249000,364500,250000,13000,123300000,8.33,Shigeru Ishiba
+South Korea,Republic of Korea,South Korean Won,Seoul,Eastern Asia,Asia,35.9078,127.7669,16400,62900,97600,54000,9000,51710000,8.09,
+China,People's Republic of China,Chinese Yuan,Beijing,Eastern Asia,Asia,35.8617,104.1954,5280000,2190000,9424700,6500000,300000,1408280000,2.94,Xi Jinping
+Indonesia,Republic of Indonesia,Indonesian Rupiah,Jakarta,South-eastern Asia,Asia,-0.7893,113.9213,1560000,921000,1877519,1240000,65000,283500000,6.44,Prabowo Subianto
+Thailand,Kingdom of Thailand,Thai Baht,Bangkok,South-eastern Asia,Asia,15.87,100.9925,221000,163000,510890,350000,22000,71620000,6.32,Paetongtarn Shinawatra
+Vietnam,Socialist Republic of Viet Nam,Vietnamese Dong,Hanoi,South-eastern Asia,Asia,14.0583,108.2772,123000,149000,310070,190000,10000,101300000,3.08,Tô Lâm
+Saudi Arabia,Kingdom of Saudi Arabia,Saudi Riyal,Riyadh,Western Asia,Asia,23.8859,45.0792,173000,9770,2149690,2040000,6000,34500000,2.08,Mohammed bin Salman
+United Arab Emirates,United Arab Emirates,UAE Dirham,Abu Dhabi,Western Asia,Asia,23.4241,53.8478,4200,300,71020,65000,2500,11294000,3.05,Mohamed bin Zayed Al Nahyan
+South Africa,Republic of South Africa,South African Rand,Pretoria,Southern Africa,Africa,-30.5595,22.9375,963000,289000,1213090,1030000,25000,64007000,7.05,Cyril Ramaphosa
+Egypt,Arab Republic of Egypt,Egyptian Pound,Cairo,Northern Africa,Africa,26.8206,30.8025,31000,700,995450,940000,5000,118370000,2.98,Abdel Fattah el-Sisi
+Nigeria,Federal Republic of Nigeria,Nigerian Naira,Abuja,Western Africa,Africa,9.082,8.6753,690000,232000,910770,730000,20000,237528000,4.44,Bola Tinubu
+Kenya,Republic of Kenya,Kenyan Shilling,Nairobi,Eastern Africa,Africa,-0.0236,37.9062,276000,37700,569140,460000,13000,56433000,5.88,William Ruto
+Morocco,Kingdom of Morocco,Moroccan Dirham,Rabat,Northern Africa,Africa,31.7917,-7.0926,300000,57000,446300,350000,10000,38380000,5.04,Aziz Akhannouch
+Turkey,Republic of Türkiye,Turkish Lira,Ankara,Western Asia,Asia,38.9637,35.2433,386000,223000,769630,580000,30000,87770000,4.33,Recep Tayyip Erdoğan
+Russia,Russian Federation,Russian Ruble,Moscow,Eastern Europe,Europe,61.524,105.3188,2150000,8150000,16376870,12200000,150000,143957000,2.94,Vladimir Putin
+Ukraine,Ukraine,Ukrainian Hryvnia,Kyiv,Eastern Europe,Europe,48.3794,31.1656,413000,96700,579320,400000,12000,38000000,5.73,Volodymyr Zelenskyy
+Poland,Republic of Poland,Polish Zloty,Warsaw,Eastern Europe,Europe,51.9194,19.1451,180000,95000,311888,200000,16000,36600000,8.0,Donald Tusk
+Netherlands,Kingdom of the Netherlands,Euro,Amsterdam,Western Europe,Europe,52.1326,5.2913,18100,3700,33670,16000,1500,17900000,8.89,Dick Schoof
+Sweden,Kingdom of Sweden,Swedish Krona,Stockholm,Northern Europe,Europe,60.1282,18.6435,26500,280000,407284,330000,7000,10600000,9.39,Ulf Kristersson
+Norway,Kingdom of Norway,Norwegian Krone,Oslo,Northern Europe,Europe,60.472,8.4689,11300,121000,364270,290000,5000,5600000,9.81,Jonas Gahr Støre
+Switzerland,Swiss Confederation,Swiss Franc,Bern,Western Europe,Europe,46.8182,8.2275,4000,12700,39516,22000,2000,9000000,9.09,
+New Zealand,New Zealand,New Zealand Dollar,Wellington,Australia and New Zealand,Oceania,-40.9006,174.886,123000,107000,263310,190000,5000,5290000,9.61,Christopher Luxon
+Singapore,Republic of Singapore,Singapore Dollar,Singapore,South-eastern Asia,Asia,1.3521,103.8198,7,2,718,0,718,6040000,6.48,Lawrence Wong
+Nepal,Federal Democratic Republic of Nepal,Nepalese Rupee,Kathmandu,Southern Asia,Asia,28.3949,84.124,41000,59300,143350,110000,3000,29600000,6.48,K. P. Sharma Oli
+Bangladesh,People's Republic of Bangladesh,Bangladeshi Taka,Dhaka,Southern Asia,Asia,23.685,90.3563,83000,14500,130170,88000,4000,175700000,4.6,
+Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Lankan Rupee,Sri Jayawardenepura Kotte,Southern Asia,Asia,7.8731,80.7718,27500,19200,62710,40000,2500,21900000,6.19,Anura Kumara Dissanayake
+Pakistan,Islamic Republic of Pakistan,Pakistani Rupee,Islamabad,Southern Asia,Asia,30.3753,69.3451,362000,26600,770880,620000,18000,255220000,4.12,Shehbaz Sharif
